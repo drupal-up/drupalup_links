@@ -1,0 +1,5 @@
+drupalup_links.default:
+  title: 'Drupal example link'
+  route_name: drupalup_links.default
+  weight: 100
+  menu_name: main
